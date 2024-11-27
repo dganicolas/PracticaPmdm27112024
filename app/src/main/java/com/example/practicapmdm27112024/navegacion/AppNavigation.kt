@@ -11,8 +11,8 @@ import com.example.navigation.pantallas.FirstScreen
 import com.example.navigation.pantallas.SecondScreen
 
 
-//metodo elegio el navigation
-//he utilizado el navHost por que me parece mas comodo al centralizar todas las pantallas en una sola funcion
+//metodo elegido el navigation
+//he utilizado el navHost por que me parece mas comodo al centralizar todas las pantallas en una sola funcion, con esta sola funcion controlo dos pantallas lo que me parece mas organizado
 //me parece mas practico y ordenado que utilizar le indent que tiene a mas fallos
 @Composable
 fun AppNavigation(modifier: Modifier) {
