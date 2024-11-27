@@ -14,6 +14,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.navigation.navegacion.AppNavigation
 import com.example.practicapmdm27112024.ui.theme.PracticaPmdm27112024Theme
 
+
+//justificacion de por que uso app navigation en el mismo archivo
+// otras justificaciones en sus respectivos archivos
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
